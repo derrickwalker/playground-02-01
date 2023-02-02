@@ -1,7 +1,3 @@
-fjdkslfjdskflds
-false
 
-fjdkslfjdskfldsf
-dispatchEventfds
-f
-dispatchEventfdssd
+var something = 3
+console.log(something)
