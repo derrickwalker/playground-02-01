@@ -3,7 +3,6 @@ let isMorning = prompt('Is it morning?');
 let message = '';
 
 for (let i = 0; i < numberOfPeople; i++) {
-    let n = i;
     if (isMorning === 'yes') {
         message += 'Good Morning!\n';
     } else {
